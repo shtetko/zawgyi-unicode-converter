@@ -1,0 +1,24 @@
+{
+  "name": "Zawgyi Unicode Converter",
+  "short_name": "Font Converter",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#dddddd",
+  "icons": [
+    {
+    "src": "favicon.ico",
+    "sizes": "64x64 32x32 24x24 16x16",
+    "type": "image/x-icon"
+    },
+    {
+      "src": "img/logo192.png",
+      "size": "192×192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo512.png",
+      "size": "512×512",
+      "type": "image/png"
+    }]
+}

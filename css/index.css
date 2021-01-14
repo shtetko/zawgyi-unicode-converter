@@ -1,0 +1,12 @@
+body {
+  background: #fafafa;
+  font-family: Roboto;
+}
+
+/* textarea's height */
+._textarea {
+  height: 50vh;
+  outline: none;
+  background: #fff;
+  border-radius: 5px;
+}
